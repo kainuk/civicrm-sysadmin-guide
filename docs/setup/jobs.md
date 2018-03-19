@@ -125,7 +125,7 @@ Notes:
 
 If you don't have command line access to the server running CiviCRM, then you can set up a separate system to make HTTP requests to your server in order to execute the `Job.execute` API call.
 
-You can use either the [REST interface](https://docs.civicrm.org/dev/en/latest/api/interfaces/#rest) (as documented in the Developer Gude) or the `cron.php` (as documented below).
+You can use either the [REST interface](https://docs.civicrm.org/dev/en/latest/api/interfaces/#rest) (as documented in the Developer Guide) or the `cron.php` (as documented below).
 
 #### URL to `cron.php`
 
